@@ -153,3 +153,8 @@ The **Bank Loan Report Dashboard** provides a powerful, interactive solution for
 ---
 
 *Developed to demonstrate integration of SQL and Power BI for financial analytics, KPI tracking, and business intelligence.*
+
+
+
+
+
